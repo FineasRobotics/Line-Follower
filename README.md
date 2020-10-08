@@ -3,7 +3,7 @@
 ## Line Follower Camera Vision
 [![Watch the video](https://img.youtube.com/vi/E4BY5rPSpE0/hqdefault.jpg)](https://www.youtube.com/watch?v=E4BY5rPSpE0)
 
-## Bot Comples The Track
+## Bot Completes The Track
 [![Watch the video](https://img.youtube.com/vi/vdwuJwgXQyE/hqdefault.jpg)](https://www.youtube.com/watch?v=vdwuJwgXQyE)
 
 ## Table of Contents
